@@ -1,0 +1,4 @@
+Application name 	Trackster
+API key 	61b0352a75f1065e8a95b03a2880fed8
+Shared secret 	9aaedcca0f7cb15ae4244ba24b895a00
+Registered to 	flashka78
